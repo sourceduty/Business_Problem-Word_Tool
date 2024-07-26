@@ -99,6 +99,7 @@ Dis- (indicating negation or removal)
 #
 
 > Alex: "*Prevent such things as miswashing, decoloring, underwashing, overspending, disorganization and unwashing.*"'
+
 > "*This custom GPT is very experimental and it could be utilized to manage or solve unseen business problems.*"
 
 #
