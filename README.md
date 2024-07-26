@@ -163,6 +163,10 @@ Action Plan for Solving Global Problems:
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Global Problems](https://github.com/sourceduty/Global_Problems)
+<br>
+[Business Automation](https://github.com/sourceduty/Business_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
